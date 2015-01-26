@@ -1,0 +1,9 @@
+{
+  "name": "angular-material",
+  "version": "0.7.0",
+  "repository": {
+    "url": "git://github.com/angular/material.git"
+  },
+  "devDependencies": {
+  }
+}
